@@ -1,5 +1,5 @@
-# 1st Webapp
-1st Webapp Using SPARQL Query
+# Web Application
+Web Application Using SPARQL Query
 
 ## Contents
 - Pie chart App</br> 
